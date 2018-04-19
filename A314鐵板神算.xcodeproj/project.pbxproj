@@ -14,6 +14,7 @@
 		5905B8572088EC2F005961AB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5905B8552088EC2F005961AB /* LaunchScreen.storyboard */; };
 		5905B8622088EC2F005961AB /* A314____Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5905B8612088EC2F005961AB /* A314____Tests.swift */; };
 		5905B86D2088EC30005961AB /* A314____UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5905B86C2088EC30005961AB /* A314____UITests.swift */; };
+		5905B87B2088EC5E005961AB /* predictViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5905B87A2088EC5E005961AB /* predictViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		5905B8682088EC30005961AB /* A314鐵板神算UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "A314鐵板神算UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5905B86C2088EC30005961AB /* A314____UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "A314____UITests.swift"; sourceTree = "<group>"; };
 		5905B86E2088EC30005961AB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5905B87A2088EC5E005961AB /* predictViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = predictViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				5905B84C2088EC2D005961AB /* AppDelegate.swift */,
 				5905B84E2088EC2D005961AB /* ViewController.swift */,
 				5905B8502088EC2D005961AB /* Main.storyboard */,
+				5905B87A2088EC5E005961AB /* predictViewController.swift */,
 				5905B8532088EC2F005961AB /* Assets.xcassets */,
 				5905B8552088EC2F005961AB /* LaunchScreen.storyboard */,
 				5905B8582088EC2F005961AB /* Info.plist */,
@@ -256,6 +259,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5905B87B2088EC5E005961AB /* predictViewController.swift in Sources */,
 				5905B84F2088EC2D005961AB /* ViewController.swift in Sources */,
 				5905B84D2088EC2D005961AB /* AppDelegate.swift in Sources */,
 			);
